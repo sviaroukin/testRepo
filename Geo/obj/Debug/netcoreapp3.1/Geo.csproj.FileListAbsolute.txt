@@ -1,0 +1,8 @@
+C:\DiplomaProject\UI\Geo\bin\Debug\netcoreapp3.1\Geo.deps.json
+C:\DiplomaProject\UI\Geo\bin\Debug\netcoreapp3.1\Geo.dll
+C:\DiplomaProject\UI\Geo\bin\Debug\netcoreapp3.1\Geo.pdb
+C:\DiplomaProject\UI\Geo\obj\Debug\netcoreapp3.1\Geo.AssemblyInfoInputs.cache
+C:\DiplomaProject\UI\Geo\obj\Debug\netcoreapp3.1\Geo.AssemblyInfo.cs
+C:\DiplomaProject\UI\Geo\obj\Debug\netcoreapp3.1\Geo.dll
+C:\DiplomaProject\UI\Geo\obj\Debug\netcoreapp3.1\Geo.pdb
+C:\DiplomaProject\UI\Geo\obj\Debug\netcoreapp3.1\Geo.csprojAssemblyReference.cache

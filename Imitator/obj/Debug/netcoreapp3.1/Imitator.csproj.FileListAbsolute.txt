@@ -1,0 +1,11 @@
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.csprojAssemblyReference.cache
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.AssemblyInfoInputs.cache
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.AssemblyInfo.cs
+C:\DiplomaProject\UI\Imitator\bin\Debug\netcoreapp3.1\Imitator.deps.json
+C:\DiplomaProject\UI\Imitator\bin\Debug\netcoreapp3.1\Imitator.dll
+C:\DiplomaProject\UI\Imitator\bin\Debug\netcoreapp3.1\Imitator.pdb
+C:\DiplomaProject\UI\Imitator\bin\Debug\netcoreapp3.1\Geo.dll
+C:\DiplomaProject\UI\Imitator\bin\Debug\netcoreapp3.1\Geo.pdb
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.csproj.CopyComplete
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.dll
+C:\DiplomaProject\UI\Imitator\obj\Debug\netcoreapp3.1\Imitator.pdb

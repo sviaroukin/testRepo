@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Imitator/1.0.0": {
+        "dependencies": {
+          "Geo": "1.0.0"
+        },
+        "runtime": {
+          "Imitator.dll": {}
+        }
+      },
+      "Geo/1.0.0": {
+        "runtime": {
+          "Geo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Imitator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

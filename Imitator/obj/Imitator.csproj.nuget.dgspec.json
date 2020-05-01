@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {}
+  },
+  "projects": {
+    "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "projectName": "Geo",
+        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
+        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sviaroukin.ARAS-CORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
+        "projectName": "Imitator",
+        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
+        "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
+        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sviaroukin.ARAS-CORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+                "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
