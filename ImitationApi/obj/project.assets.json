@@ -6039,11 +6039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
+      "projectUniqueName": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
       "projectName": "ImitationApi",
-      "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
+      "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
       "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
-      "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\obj\\",
+      "outputPath": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6062,11 +6062,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
-              "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
+            "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+              "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
             },
-            "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
-              "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj"
+            "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
+              "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj"
             }
           }
         }

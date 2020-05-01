@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj": {}
+    "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj": {}
   },
   "projects": {
-    "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+    "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "projectUniqueName": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
         "projectName": "Geo",
-        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
         "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
-        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\obj\\",
+        "outputPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj": {
+    "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
+        "projectUniqueName": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
         "projectName": "ImitationApi",
-        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
+        "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\ImitationApi.csproj",
         "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
-        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\obj\\",
+        "outputPath": "c:\\DiplomaProject\\UI\\Diplom\\ImitationApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,11 +85,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
-                "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
+              "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+                "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
               },
-              "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
-                "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj"
+              "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
+                "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
+    "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
+        "projectUniqueName": "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
         "projectName": "Imitator",
-        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
+        "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\Imitator.csproj",
         "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
-        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\Imitator\\obj\\",
+        "outputPath": "c:\\DiplomaProject\\UI\\Diplom\\Imitator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -156,8 +156,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
-                "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
+              "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+                "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj"
               }
             }
           }

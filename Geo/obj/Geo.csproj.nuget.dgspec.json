@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {}
+    "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {}
   },
   "projects": {
-    "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
+    "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "projectUniqueName": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
         "projectName": "Geo",
-        "projectPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
+        "projectPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\Geo.csproj",
         "packagesPath": "C:\\Users\\sviaroukin.ARAS-CORP\\.nuget\\packages\\",
-        "outputPath": "C:\\DiplomaProject\\UI\\Diplom\\Geo\\obj\\",
+        "outputPath": "c:\\DiplomaProject\\UI\\Diplom\\Geo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

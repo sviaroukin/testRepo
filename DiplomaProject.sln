@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geo", ".\Geo\Geo.csproj", "{3EA2EAC8-5D26-4688-AC90-329DF67B91D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geo", "Geo\Geo.csproj", "{3EA2EAC8-5D26-4688-AC90-329DF67B91D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", ".\Tests\Tests.csproj", "{AB8A9643-15ED-4473-A431-9F404608C479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{AB8A9643-15ED-4473-A431-9F404608C479}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imitator", ".\Imitator\Imitator.csproj", "{ED9BCA6C-30B8-4985-8597-49E58DBAABB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imitator", "Imitator\Imitator.csproj", "{ED9BCA6C-30B8-4985-8597-49E58DBAABB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImitationApi", ".\ImitationApi\ImitationApi.csproj", "{31495845-959D-4F20-A118-F0B54FC61F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImitationApi", "ImitationApi\ImitationApi.csproj", "{31495845-959D-4F20-A118-F0B54FC61F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathReceiver", "PathReceiver\PathReceiver.csproj", "{4F92FF89-D10C-4D44-8186-79A986C115F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74D7F340-DA15-492F-B0DB-23265BC01430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74D7F340-DA15-492F-B0DB-23265BC01430}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74D7F340-DA15-492F-B0DB-23265BC01430}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74D7F340-DA15-492F-B0DB-23265BC01430}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3EA2EAC8-5D26-4688-AC90-329DF67B91D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3EA2EAC8-5D26-4688-AC90-329DF67B91D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA2EAC8-5D26-4688-AC90-329DF67B91D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -37,6 +35,10 @@ Global
 		{31495845-959D-4F20-A118-F0B54FC61F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31495845-959D-4F20-A118-F0B54FC61F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31495845-959D-4F20-A118-F0B54FC61F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F92FF89-D10C-4D44-8186-79A986C115F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F92FF89-D10C-4D44-8186-79A986C115F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F92FF89-D10C-4D44-8186-79A986C115F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F92FF89-D10C-4D44-8186-79A986C115F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
